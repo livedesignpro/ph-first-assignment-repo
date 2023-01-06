@@ -118,7 +118,7 @@ header {
 
 
 .positive-mindset {
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(/images/watch.png);
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url('/images/watch.png');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
