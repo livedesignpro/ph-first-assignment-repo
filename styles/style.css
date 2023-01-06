@@ -21,7 +21,7 @@ header {
 .header-title {
     padding-top: 260px;
     padding-left: 845px;
-    padding-right: 230px;
+    padding-right: 100px;
     font-weight: 700;
     font-size: 65px;
 }
@@ -29,7 +29,7 @@ header {
 .header-description {
     padding-top: 5px;
     padding-left: 876px;
-    padding-right: 230px;
+    padding-right: 100px;
 }
 
 .btn-primary {
@@ -40,7 +40,7 @@ header {
     font-weight: 600;
     font-size: 20px;
     color: #005FAC;
-    margin-right: 230px;
+    margin-right: 100px;
     margin-top: 32px;
     border: none;
 }
