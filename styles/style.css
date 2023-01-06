@@ -1,0 +1,194 @@
+* {
+    margin: 0px;
+    font-family: 'Work Sans';
+}
+
+/* Header Banner Section */
+
+header {
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    text-align: right;
+    color: #ffffff;
+}
+
+/* .header-text{
+    margin-top: 216px;
+} */
+
+.header-title {
+    padding-top: 260px;
+    padding-left: 845px;
+    padding-right: 230px;
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.header-description {
+    padding-top: 5px;
+    padding-left: 876px;
+    padding-right: 230px;
+}
+
+.btn-primary {
+    width: 160px;
+    height: 64px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    margin-right: 230px;
+    margin-top: 32px;
+    border: none;
+}
+
+/* My failures of previous year style */
+
+.my-failures {
+    display: flex;
+    gap: 87px;
+    justify-content: space-around;
+    margin-left: 240px;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+.my-failures-container {
+    margin-top: 300px;
+}
+
+.my-failures-title {
+    font-weight: 900;
+    font-size: 40px;
+    color: #151414;
+    padding-right: 150px;
+}
+
+.my-failures-description {
+    color: #444343;
+    margin-top: 24px;
+}
+
+.my-failures-sub-description {
+    color: #444343;
+    margin-top: 16px;
+}
+
+.my-failures-sub-description li {
+    list-style: url('../images/icons/checkmark.svg');
+}
+
+/* My Plans style */
+
+.my-plan {
+    text-align: center;
+    padding-top: 129px;
+}
+
+.my-plan-container {
+    display: flex;
+    gap: 86px;
+    justify-content: space-around;
+    padding: 0px 230px;
+    margin-top: 50px;
+}
+
+.my-plan-title {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.my-plan-sub-title {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+
+}
+
+.my-plan-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+/* Positive Mindset */
+
+
+.positive-mindset {
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(/images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin: 130px 230px;
+    height: 40vh;
+}
+
+.positive-mindset-container {
+    padding-left: 90px;
+    padding-top: 50px;
+    padding-right: 500px;
+
+}
+
+.positive-mindset-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+/* footer style */
+
+footer {
+    background-color: #151414;
+    height: 577px;
+}
+
+.footer-container {
+    color: #FFFFFF;
+    display: flex;
+    gap: 100px;
+    justify-content: space-around;
+    padding: 130px 230px;
+
+}
+
+.footer-left-container{
+    padding-right: 230px;
+}
+.footer-right-container{
+    padding-right: 200px;
+}
+
+.footer-left-title {
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 16px;
+}
+
+.footer-left-description {
+    padding-bottom: 24px;
+
+}
+
+.footer-right-title {
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 31px;
+}
+
+input{
+    height: 64px;
+}
+
+.btn-footer{
+    width: 160px;
+    height: 64px;
+    background-color: #005FAC;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+}
